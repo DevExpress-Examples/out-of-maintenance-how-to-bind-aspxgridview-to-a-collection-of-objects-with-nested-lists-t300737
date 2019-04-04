@@ -6,7 +6,7 @@
 * [RepeaterTemplate.cs](./CS/T300213wf/App_Code/RepeaterTemplate.cs) (VB: [RepeaterTemplate.vb](./VB/T300213wf/App_Code/RepeaterTemplate.vb))
 * [Store.cs](./CS/T300213wf/App_Code/Store.cs) (VB: [Store.vb](./VB/T300213wf/App_Code/Store.vb))
 * [Default.aspx](./CS/T300213wf/Default.aspx) (VB: [Default.aspx](./VB/T300213wf/Default.aspx))
-* [Default.aspx.cs](./CS/T300213wf/Default.aspx.cs) (VB: [Default.aspx](./VB/T300213wf/Default.aspx))
+* [Default.aspx.cs](./CS/T300213wf/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/T300213wf/Default.aspx.vb))
 <!-- default file list end -->
 # How to bind ASPxGridView to a collection of objects with nested lists
 
