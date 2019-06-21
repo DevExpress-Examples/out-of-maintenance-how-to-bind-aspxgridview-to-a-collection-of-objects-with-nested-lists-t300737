@@ -9,6 +9,9 @@
 * [Default.aspx.cs](./CS/T300213wf/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/T300213wf/Default.aspx.vb))
 <!-- default file list end -->
 # How to bind ASPxGridView to a collection of objects with nested lists
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t300737/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to display a collection of objects with nested lists using ASPxGridView. Note that this approach doesn't support data shaping operations (sorting, grouping, filtering) out of the box. It is required to implement these operations manually if you need them.</p>
